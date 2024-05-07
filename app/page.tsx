@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { Code, Terminal, Users, Mail } from 'lucide-react';
 import { Metadata } from "next";
 export default function Home() {
