@@ -21,7 +21,7 @@ export default function Home() {
           </div>
         </div>
         <div className="mt-10">
-          <a href="mailto:inquiries@cadenzadevelopent.com" className="text-xl text-orange-500 hover:underline flex align-center justify-center">
+          <a href="mailto:inquiries@cadenzadevelopment.com" className="text-xl text-orange-500 hover:underline flex align-center justify-center">
            <Mail size={24} className="mr-2"/>
            Contact us at inquiries@cadenzadevelopment.com
           </a>
